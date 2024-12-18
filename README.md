@@ -5,9 +5,6 @@
 <h3 align="center">Software Engineer</h3>
 
 ### 👨‍💻 About Me:
- <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ManosDaskalelis&color=blue" alt="Profile Views" />
-  </p>
 - 🎓 I’m a software developer specializing in **C#**, **React**.
 - 🚀 I love building clean and efficient code, focusing on **Web Development** and **Back-End Systems**.
 - 💬 Ask me about anything tech-related; I’m always happy to help.         
