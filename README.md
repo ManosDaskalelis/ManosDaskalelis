@@ -6,6 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=ManosDaskalelis&color=blue" alt="Profile Views" />
 </p>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManosDaskalelis&theme=radical&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+
 ### 👨‍💻 About Me:
 - 🎓 I’m a software developer specializing in **C#**, **React**.
 - 🚀 I love building clean and efficient code, focusing on **Web Development** and **Back-End Systems**.
