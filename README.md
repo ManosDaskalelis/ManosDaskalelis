@@ -15,13 +15,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=red" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange" />
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow" />
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
