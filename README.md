@@ -14,7 +14,7 @@
 ### 🚀 Technology Stack:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C#-000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=csharp" />
   
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue" />
