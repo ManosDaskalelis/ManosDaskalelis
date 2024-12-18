@@ -14,27 +14,19 @@
 ### 🚀 Technology Stack:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=csharp" />
-  
+  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=red" />
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow" />
 </p>
 
-<!--
-**ManosDaskalelis/ManosDaskalelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManosDaskalelis&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManosDaskalelis&layout=compact&theme=radical" alt="Top Languages" />
+</p>
