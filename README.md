@@ -13,7 +13,7 @@
 - 💬 Ask me about anything tech-related; I’m always happy to help.
 ---
 ### 🛠️ Tech Stack:
---
+
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -28,7 +28,7 @@
 <br>
 ---
 📈Stats:
---
+----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManosDaskalelis&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManosDaskalelis&layout=compact&theme=radical" alt="Top Languages" />
