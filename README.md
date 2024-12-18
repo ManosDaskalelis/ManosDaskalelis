@@ -32,4 +32,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManosDaskalelis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-![image](https://github.com/user-attachments/assets/3c8e1efe-cfe7-4a68-9924-68c1f9b60876)
+### 🔥 Current Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ManosDaskalelis&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
