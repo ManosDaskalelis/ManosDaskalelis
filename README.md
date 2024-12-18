@@ -31,11 +31,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ManosDaskalelis&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManosDaskalelis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+---
 
-### 🔥 Current Streak
+### 🔗 Connect with Me:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManosDaskalelis&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
+- 📫 **Email**: manolisdaskalelis@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/manolis-daskalelis)
+- 🌐 [Portfolio](https://yourportfolio.com)
 
