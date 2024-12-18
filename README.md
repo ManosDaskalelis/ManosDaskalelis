@@ -47,7 +47,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/ManosDaskalelis/ManosDaskalelis/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/ManosDaskalelis/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ### 🔗 Connect with Me:
