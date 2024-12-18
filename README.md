@@ -8,8 +8,10 @@
   🌱 I’m currently learning Web Development and improving my Data Structures & Algorithms skills.
 </p>
 <div>           
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManosDaskalelis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManosDaskalelis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ### 🚀 Technology Stack:
 
