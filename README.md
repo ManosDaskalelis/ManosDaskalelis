@@ -5,10 +5,15 @@
 <h3 align="center">Software Engineer</h3>
 
 ### 👨‍💻 About Me:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManosDaskalelis&color=blue" alt="Profile Views" />
+</p>
+<p align="center">
 - 🎓 I’m a software developer specializing in **C#**, **React**.
 - 🚀 I love building clean and efficient code, focusing on **Web Development** and **Back-End Systems**.
-- 💬 Ask me about anything tech-related; I’m always happy to help.         
-
+- 💬 Ask me about anything tech-related; I’m always happy to help.
+</p>
+---
 ### 🛠️ Tech Stack:
 
 <div align="center">
@@ -23,7 +28,6 @@
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManosDaskalelis&show_icons=true&theme=radical" alt="GitHub Stats" />
