@@ -34,6 +34,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManosDaskalelis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+### 🔥 Steak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ManosDaskalelis&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### 🔗 Connect with Me:
 
