@@ -12,24 +12,20 @@
 ### 🛠️ Tech Stack:
 
 <div align="center">
-  <!-- C# -->
   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white" />
-  <!-- Java -->
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <!-- Angular -->
   <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=red" />
-  <!-- Python -->
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow" />
-  <!-- HTML -->
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange" />
-  <!-- CSS -->
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue" />
-  <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <!-- SQL -->
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 <p align="center">
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManosDaskalelis&color=blue" alt="Profile Views" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=ManosDaskalelis&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManosDaskalelis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
