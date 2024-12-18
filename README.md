@@ -3,7 +3,9 @@
 </div>
 
 <h3 align="center">Software Engineer</h3>
-<img src="https://komarev.com/ghpvc/?username=ManosDaskalelis&color=blue" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManosDaskalelis&color=blue" alt="Profile Views" />
+</p>
 
 ### 👨‍💻 About Me:
 - 🎓 I’m a software developer specializing in **C#**, **React**.
