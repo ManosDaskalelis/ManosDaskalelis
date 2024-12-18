@@ -31,3 +31,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ManosDaskalelis&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManosDaskalelis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+![image](https://github.com/user-attachments/assets/3c8e1efe-cfe7-4a68-9924-68c1f9b60876)
