@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack:
 
 <div align="center">
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=red" />
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
