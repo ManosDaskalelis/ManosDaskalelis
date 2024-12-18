@@ -45,8 +45,10 @@
 
 ---
 
-### 🔥 Steak:
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ManosDaskalelis&theme=radical&date_format=j%20M%5B%20Y%5D" />
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/ManosDaskalelis/ManosDaskalelis/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ### 🔗 Connect with Me:
 
