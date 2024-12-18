@@ -11,6 +11,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ManosDaskalelis&theme=radical&no-frame=true" alt="GitHub Trophies" />
 </p>
 
+<br>
 
 ### 👨‍💻 About Me:
 - 🎓 I’m a software developer specializing in **C#**, **React**.
