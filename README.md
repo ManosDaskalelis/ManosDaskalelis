@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow" />
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManosDaskalelis&show_icons=true&theme=radical" alt="GitHub Stats" />
