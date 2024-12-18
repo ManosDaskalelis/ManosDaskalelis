@@ -48,3 +48,5 @@
 - 💼 [LinkedIn](www.linkedin.com/in/manolis-daskalelis)
 - 🌐 [Portfolio] //
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManosDaskalelis)](https://github.com/anuraghazra/github-readme-stats)
