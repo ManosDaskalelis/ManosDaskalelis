@@ -37,5 +37,5 @@
 
 - 📫 **Email**: manolisdaskalelis@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/manolis-daskalelis)
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 🌐 [Portfolio] //
 
