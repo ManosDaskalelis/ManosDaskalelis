@@ -50,6 +50,6 @@
 
 ### 🔗 Connect with Me:
 
-- 📫 **Email**: manolisdaskalelis@gmail.com
+- 📫 [Email](manolisdaskalelis@gmail.com)
 - 💼 [LinkedIn](www.linkedin.com/in/manolis-daskalelis)
-- 🌐 [Portfolio] //
+- 🌐 [Portfolio](https://curated-project-wonder.lovable.app/)
