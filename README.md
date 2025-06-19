@@ -6,7 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=ManosDaskalelis&color=blue" alt="Profile Views" />
 </p>
 
-<img align="center" src="./212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+<div align="center">
+  <img src="./212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Programer doing some work" />
+</div>
 
 ### 🏆 GitHub Trophies
 <p align="center">
