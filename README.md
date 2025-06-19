@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=ManosDaskalelis&color=blue" alt="Profile Views" />
 </p>
 
+<img src="./212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ManosDaskalelis&theme=radical&no-frame=true" alt="GitHub Trophies" />
