@@ -59,7 +59,6 @@
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/figma.svg&locoColor=white" width="32" alt="Figma" />
 </div>
 
 
