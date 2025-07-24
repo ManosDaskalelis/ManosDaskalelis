@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicon@2.15.1/devicon.min.css">
-
 <h1 align="center">Hi, I'm Manos Daskalelis 👋</h1>
   <img align="right" alt="Coding" width="auto" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ1MTk2NjQsIm5iZiI6MTczNDUxOTM2NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE4VDEwNTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlNjBlNjUyNzBkOGI1MWJiYjY5MjdkNWYzOTNiZDU5ZjgyN2UyMWYxNDExOTI1MmJmODg4NDVjMzliYjNiNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R2wu-ySzngpkaQibjstc7xOtK5RGNcUS9hN788-bb54">
 
@@ -43,20 +41,24 @@
 </div>
 
 #### ⚙️ Back‑end
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Entity_Framework-007396?style=for-the-badge&logo=entity-framework&logoColor=white" />
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<div align="center" >
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-007396?style=for-the-badge&logo=entity-framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</div>
 
 #### 🧰 Tools & DBs
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
 
 ---
@@ -77,23 +79,5 @@
 - 📫 [Email](manolisdaskalelis@gmail.com)
 - 💼 [LinkedIn](www.linkedin.com/in/manolis-daskalelis)
 - 🌐 [Portfolio](https://curated-project-wonder.lovable.app/)
-<i class="devicon-csharp-plain colored"></i>
-<i class="devicon-java-plain colored"></i>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-typescript-plain colored"></i>
-<i class="devicon-php-plain colored"></i>
-<i class="devicon-python-plain colored"></i>
-<i class="devicon-angularjs-plain colored"></i>
-<i class="devicon-bootstrap-plain colored"></i>
-<i class="devicon-css3-plain colored"></i>
-<i class="devicon-html5-plain colored"></i>
-<i class="devicon-spring-plain colored"></i>
-<i class="devicon-mongodb-plain colored"></i>
-<i class="devicon-microsoftsqlserver-plain colored"></i>
-<i class="devicon-mysql-plain colored"></i>
-<i class="devicon-postgresql-plain colored"></i>
-<i class="devicon-docker-plain colored"></i>
-<i class="devicon-git-plain colored"></i>
-<i class="devicon-postman-plain colored"></i>
 
 
