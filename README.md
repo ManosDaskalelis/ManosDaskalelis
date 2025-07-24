@@ -74,5 +74,6 @@
 - 💼 [LinkedIn](www.linkedin.com/in/manolis-daskalelis)
 - 🌐 [Portfolio](https://curated-project-wonder.lovable.app/)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicon@2.15.1/devicon.min.css">
+<i class="devicon-csharp-plain colored"></i>
 
 
