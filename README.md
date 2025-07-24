@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me
 
 - 👋 Hi, I’m **Manos Daskalelis**, a passionate software engineer with a strong focus on back-end development and clean, maintainable code.
-- 💻 My main stack includes **C#**, **.NET**, and **Angular**, and I'm experienced in developing scalable web apps and APIs.
+- 💻 My main stack includes **.NET**, and **Angular**, and I'm experienced in developing scalable web apps and APIs.
 - 🚀 I enjoy solving real-world problems through technology and always strive to improve my craft.
 - 🤝 I’m always open to learning new things, collaborating, and helping fellow developers.
 
