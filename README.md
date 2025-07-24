@@ -75,5 +75,22 @@
 - 🌐 [Portfolio](https://curated-project-wonder.lovable.app/)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicon@2.15.1/devicon.min.css">
 <i class="devicon-csharp-plain colored"></i>
+<i class="devicon-java-plain colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-typescript-plain colored"></i>
+<i class="devicon-php-plain colored"></i>
+<i class="devicon-python-plain colored"></i>
+<i class="devicon-angularjs-plain colored"></i>
+<i class="devicon-bootstrap-plain colored"></i>
+<i class="devicon-css3-plain colored"></i>
+<i class="devicon-html5-plain colored"></i>
+<i class="devicon-spring-plain colored"></i>
+<i class="devicon-mongodb-plain colored"></i>
+<i class="devicon-microsoftsqlserver-plain colored"></i>
+<i class="devicon-mysql-plain colored"></i>
+<i class="devicon-postgresql-plain colored"></i>
+<i class="devicon-docker-plain colored"></i>
+<i class="devicon-git-plain colored"></i>
+<i class="devicon-postman-plain colored"></i>
 
 
